@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329093710661",
+    "firebase_url": "https://ionic-notificacoes-teste.firebaseio.com",
+    "project_id": "ionic-notificacoes-teste",
+    "storage_bucket": "ionic-notificacoes-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329093710661:android:5d57b9e32c9c9e6d",
+        "android_client_info": {
+          "package_name": "br.com.testefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329093710661-eu7d8qbcq9utq1154fs05k39aqfdhrqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsPW05j77oPWusg_FFx4DbQGDooVbcF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329093710661-eu7d8qbcq9utq1154fs05k39aqfdhrqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
